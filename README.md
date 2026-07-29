@@ -198,36 +198,6 @@ Run all cells sequentially.
 
 ---
 
-# 📚 Learning Outcomes
-
-Through this project, the following Machine Learning concepts are demonstrated:
-
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- One-Hot Encoding
-- Standardization
-- Multiple Linear Regression
-- Model Evaluation
-- Residual Analysis
-- Regression Diagnostics
-- Model Interpretation
-
----
-
-# 🚀 Future Improvements
-
-- Polynomial Regression
-- Ridge Regression
-- Lasso Regression
-- Elastic Net
-- Decision Tree Regression
-- Random Forest Regression
-- Gradient Boosting
-- XGBoost
-
----
-
 # 📌 Conclusion
 
 The Multiple Linear Regression model successfully predicts students' exam scores with good accuracy. The model achieved an **R² score of 0.77**, indicating that it explains approximately **77%** of the variance in exam scores. The low MAE and RMSE values demonstrate that the predictions are generally close to the actual scores. Diagnostic plots show that the model performs well for most observations, although a small number of high-scoring students are underestimated. Overall, the project provides a strong foundation for understanding regression techniques and the complete machine learning workflow.
@@ -236,6 +206,6 @@ The Multiple Linear Regression model successfully predicts students' exam scores
 
 ## 👨‍💻 Author
 
-**Your Name**
+Vinod G
 
 Machine Learning Enthusiast
